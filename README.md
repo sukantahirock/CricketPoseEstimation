@@ -23,7 +23,7 @@ git clone https://github.com/your-username/CricketPoseEstimation.git
 cd CricketPoseEstimation
 ```
 
-##**📌 Technologies Used**
+## 📌 Technologies Used
 ```Mediapipe
 
 OpenCV
