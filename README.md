@@ -30,7 +30,7 @@ OpenCV
 
 Python
 
-Google Colab / Jupyter
+Google Colab 
 ```
 
 
@@ -64,9 +64,9 @@ Mediapipe হল Google বানানো একটা machine learning pipelin
 
 এরপর একে একে landmark গুলো connect করে একটা skeleton-style কংকাল বানায়
 
-📦 Mediapipe কী কী ব্যবহার করে ভিতরে?
+📦 Mediapipe যা যা ব্যবহার করে:
 Component	Role
-📸 OpenCV	ছবি/ভিডিও input নেওয়ার জন্য
-🤖 CNN	মানুষের অবস্থান ও joint detect করতে
-🔀 Custom Graph	Speed এবং accuracy বজায় রাখতে
-🧠 BlazePose model	Fast & accurate pose landmark detector
+- 📸 OpenCV	ছবি/ভিডিও input নেওয়ার জন্য
+- 🤖 CNN	মানুষের অবস্থান ও joint detect করতে
+- 🔀 Custom Graph	Speed এবং accuracy বজায় রাখতে
+- 🧠 BlazePose model	Fast & accurate pose landmark detector
